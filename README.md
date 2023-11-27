@@ -12,7 +12,7 @@ Configuration can be changed in the config file.
 
 **Example input:**
 ```
-python fetch_cves.py --days-back 180 --output-directory ./output
+python main.py --days-back 180 --output_directory ./output
 ```
 
 ## Requirements
